@@ -1,3 +1,3 @@
 # Ritesh
 Get configure
-author ritesh 
+author ritesh kumbhar 
